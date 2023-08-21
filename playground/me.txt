@@ -1,0 +1,5 @@
+{{#user}}
+Name: Pritish Priyadasan
+Skills: HTML, CSS, JS, Next.js
+Email: pritishpriyadasan2002@gmail.com
+{{/user}}
